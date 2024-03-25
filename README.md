@@ -1,9 +1,1 @@
-- Ercan doruk bircanın T. C kimlik numarası
-- Panel
-- Sülale Sorgu
--Eğitim Sorgu
-- Aile 
-- 
--
--
--
+
